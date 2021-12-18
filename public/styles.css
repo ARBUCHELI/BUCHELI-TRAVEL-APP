@@ -1,0 +1,25 @@
+html {
+    background-color: white;
+}
+
+.rounded-corners {
+    width: 100px;
+}
+  
+.rounded-corners {
+    border-radius: 6px;
+}
+  
+.headerapp {
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+    padding: 1em 1em 0px 0px;
+    background-color: #caf0f8;  
+}
+  
+.h1-header {
+    font-family: "Oxygen", sans-serif;
+    color: white;
+    font-size: 2em;
+    font-weight: 900;
+}
